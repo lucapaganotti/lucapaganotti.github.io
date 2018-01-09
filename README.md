@@ -1,2 +1,2 @@
 # lucapaganotti.github.io
-A sample website to learn enaough CSS to be dangerous
+A sample website to learn enough CSS to be dangerous
